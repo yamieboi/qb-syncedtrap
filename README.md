@@ -17,6 +17,7 @@ Add More Spots:-
 
 1. Head to shared.lua (in the script not the core -_-)
 2. Paste This Under The 'SPOTS' Table (Make Sure Add a ',' on the last one tho -_-)
+3. Done! Notification Will Be Automatically Set To The Name
 
  
 
