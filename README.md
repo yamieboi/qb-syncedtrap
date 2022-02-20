@@ -8,7 +8,7 @@ Usage:-
 1. Anyone can start the robbery by just pressing E (you can add some minigames if you want to)
 2. A global notification is triggered, So everyone knows DUH!
 3. 600 Sec Timer 
-4. After the timer is over whoever presses E  takes the money
+4. After the timer is over whoever presses E  takes the money (There are many security checks so they can't exploit it!)
 5. Recently Robbed Cooldown
 
 *It Does Not Call The Cops Separately* 
