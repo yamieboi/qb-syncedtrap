@@ -24,3 +24,5 @@ SPOTS = {
     }
     
 }
+
+MinimumPlayers = 10 -- Minimum Players Present
