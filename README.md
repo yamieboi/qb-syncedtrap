@@ -5,7 +5,7 @@ Help This Broke Dev Out - https://www.buymeacoffee.com/yamieboi
 This a simple robbery kind of script, It's synced with all the players.
 
 Usage:-
-1. Anyone can start the robbery by just pressing E (you can add some minigames if you want to)
+1. Anyone can start the robbery by just pressing E & there has to be enough players which you can in the shared.lua (you can add some minigames if you want to)
 2. A global notification is triggered, So everyone knows DUH!
 3. 600 Sec Timer 
 4. After the timer is over whoever presses E  takes the money (There are many security checks so they can't exploit it!)
