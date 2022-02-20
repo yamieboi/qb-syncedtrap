@@ -22,4 +22,5 @@ SPOTS = {
         ['time'] = 600,
         ['recently_roobed'] = false, 
     }
+    
 }
