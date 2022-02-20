@@ -45,3 +45,10 @@ Add More Spots:-
   
 
 Open source script so contribute if you want to :D
+
+
+
+
+PREVIEW: ![image](https://user-images.githubusercontent.com/90822795/154830136-929d0d73-9e8c-4814-af8e-a77dfe656f93.png)
+![image](https://user-images.githubusercontent.com/90822795/154830140-2a52a8e0-8c75-4080-84e1-4cb839313d9c.png)
+
