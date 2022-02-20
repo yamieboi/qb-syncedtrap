@@ -1,4 +1,4 @@
-# SimpleSyncedTrapRobbery (QBCORE)
+# SimpleSyncedTrapRobbery (QBCORE & OPTIMIZED)
 Help This Broke Dev Out - https://www.buymeacoffee.com/yamieboi
  
  
